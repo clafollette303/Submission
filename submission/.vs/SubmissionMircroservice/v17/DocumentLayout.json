@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lafol\\source\\repos\\SubmissionMircroservice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F87D4D77-94E5-4158-833D-7C8D6B05215D}|SubmissionMircroservice\\SubmissionMircroservice.csproj|c:\\users\\lafol\\source\\repos\\submissionmircroservice\\submissionmircroservice\\controllers\\submissioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F87D4D77-94E5-4158-833D-7C8D6B05215D}|SubmissionMircroservice\\SubmissionMircroservice.csproj|solutionrelative:submissionmircroservice\\controllers\\submissioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F87D4D77-94E5-4158-833D-7C8D6B05215D}|SubmissionMircroservice\\SubmissionMircroservice.csproj|c:\\users\\lafol\\source\\repos\\submissionmircroservice\\submissionmircroservice\\uploads\\latitam5.4ng||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F87D4D77-94E5-4158-833D-7C8D6B05215D}|SubmissionMircroservice\\SubmissionMircroservice.csproj|solutionrelative:submissionmircroservice\\uploads\\latitam5.4ng||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F87D4D77-94E5-4158-833D-7C8D6B05215D}|SubmissionMircroservice\\SubmissionMircroservice.csproj|c:\\users\\lafol\\source\\repos\\submissionmircroservice\\submissionmircroservice\\uploads\\0bbq0gge.cri||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F87D4D77-94E5-4158-833D-7C8D6B05215D}|SubmissionMircroservice\\SubmissionMircroservice.csproj|solutionrelative:submissionmircroservice\\uploads\\0bbq0gge.cri||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F87D4D77-94E5-4158-833D-7C8D6B05215D}|SubmissionMircroservice\\SubmissionMircroservice.csproj|c:\\users\\lafol\\source\\repos\\submissionmircroservice\\submissionmircroservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F87D4D77-94E5-4158-833D-7C8D6B05215D}|SubmissionMircroservice\\SubmissionMircroservice.csproj|solutionrelative:submissionmircroservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F87D4D77-94E5-4158-833D-7C8D6B05215D}|SubmissionMircroservice\\SubmissionMircroservice.csproj|c:\\users\\lafol\\source\\repos\\submissionmircroservice\\submissionmircroservice\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F87D4D77-94E5-4158-833D-7C8D6B05215D}|SubmissionMircroservice\\SubmissionMircroservice.csproj|solutionrelative:submissionmircroservice\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F87D4D77-94E5-4158-833D-7C8D6B05215D}|SubmissionMircroservice\\SubmissionMircroservice.csproj|c:\\users\\lafol\\source\\repos\\submissionmircroservice\\submissionmircroservice\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F87D4D77-94E5-4158-833D-7C8D6B05215D}|SubmissionMircroservice\\SubmissionMircroservice.csproj|solutionrelative:submissionmircroservice\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "0bbq0gge.cri",
+              "DocumentMoniker": "C:\\Users\\lafol\\source\\repos\\SubmissionMircroservice\\SubmissionMircroservice\\Uploads\\0bbq0gge.cri",
+              "RelativeDocumentMoniker": "SubmissionMircroservice\\Uploads\\0bbq0gge.cri",
+              "ToolTip": "C:\\Users\\lafol\\source\\repos\\SubmissionMircroservice\\SubmissionMircroservice\\Uploads\\0bbq0gge.cri",
+              "RelativeToolTip": "SubmissionMircroservice\\Uploads\\0bbq0gge.cri",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-07T19:46:44.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "latitam5.4ng",
+              "DocumentMoniker": "C:\\Users\\lafol\\source\\repos\\SubmissionMircroservice\\SubmissionMircroservice\\Uploads\\latitam5.4ng",
+              "RelativeDocumentMoniker": "SubmissionMircroservice\\Uploads\\latitam5.4ng",
+              "ToolTip": "C:\\Users\\lafol\\source\\repos\\SubmissionMircroservice\\SubmissionMircroservice\\Uploads\\latitam5.4ng",
+              "RelativeToolTip": "SubmissionMircroservice\\Uploads\\latitam5.4ng",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-07T19:43:48.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SubmissionController.cs",
+              "DocumentMoniker": "C:\\Users\\lafol\\source\\repos\\SubmissionMircroservice\\SubmissionMircroservice\\Controllers\\SubmissionController.cs",
+              "RelativeDocumentMoniker": "SubmissionMircroservice\\Controllers\\SubmissionController.cs",
+              "ToolTip": "C:\\Users\\lafol\\source\\repos\\SubmissionMircroservice\\SubmissionMircroservice\\Controllers\\SubmissionController.cs",
+              "RelativeToolTip": "SubmissionMircroservice\\Controllers\\SubmissionController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T21:53:29.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\lafol\\source\\repos\\SubmissionMircroservice\\SubmissionMircroservice\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SubmissionMircroservice\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\lafol\\source\\repos\\SubmissionMircroservice\\SubmissionMircroservice\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SubmissionMircroservice\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwCIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T21:46:42.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lafol\\source\\repos\\SubmissionMircroservice\\SubmissionMircroservice\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SubmissionMircroservice\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lafol\\source\\repos\\SubmissionMircroservice\\SubmissionMircroservice\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SubmissionMircroservice\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T21:46:37.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lafol\\source\\repos\\SubmissionMircroservice\\SubmissionMircroservice\\Program.cs",
+              "RelativeDocumentMoniker": "SubmissionMircroservice\\Program.cs",
+              "ToolTip": "C:\\Users\\lafol\\source\\repos\\SubmissionMircroservice\\SubmissionMircroservice\\Program.cs",
+              "RelativeToolTip": "SubmissionMircroservice\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T21:46:19.832Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
