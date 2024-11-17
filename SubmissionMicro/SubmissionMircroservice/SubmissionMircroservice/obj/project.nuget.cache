@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rh3W9/LHteaepQj5PvK5h9hHapdjtEAPE2EwA8klfRx1O004Gb3KkPrSlGJBZpN7EIuGeTktN7y/RfcOr8p5Qg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lafol\\source\\repos\\SubmissionMircroservice\\SubmissionMircroservice\\SubmissionMircroservice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lafol\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\microsoft.visualstudio.azure.containers.tools.targets.1.19.6.nupkg.sha512"
+  ],
+  "logs": []
+}
